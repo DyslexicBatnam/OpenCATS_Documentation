@@ -122,7 +122,7 @@ Install resume indexing tools
 -----------------------------
 * ``$ sudo wget ftp://ftp.pbone.net/mirror/ftp5.gwdg.de/pub/opensuse/repositories/home:/Kenzy:/modified:/C7/CentOS_7/x86_64/antiword-0.37-20.1.x86_64.rpm``
 * ``$ sudo rpm -ivh antiword-0.37-20.1.x86_64.rpm``
-* ``$ sudo wget http://dl.fedoraproject.org/pub/epel/7/x86_64/h/html2text-1.3.2a-14.el7.x86_64.rpm``
+* ``$ sudo wget http://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/h/html2text-1.3.2a-14.el7.x86_64.rpm``
 * ``$ sudo rpm -ivh html2text-1.3.2a-14.el7.x86_64.rpm``
 * ``$ sudo yum install poppler poppler-utils unrtf``
 
