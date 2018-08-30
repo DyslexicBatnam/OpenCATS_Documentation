@@ -112,6 +112,7 @@ Server and Directory permissions
 * ``$ sudo chown apache:apache -R opencats``
 * ``$ sudo find . -type f -exec chmod 0644 {} \;``
 * ``$ sudo find . -type d -exec chmod 0770 {} \;``
+* ``$ sudo find . -type d -exec chmod 0777 {} \;``
 * ``$ sudo chcon -t httpd_sys_content_t /var/www/html/opencats -R``
 * ``$ sudo chcon -t httpd_sys_rw_content_t /var/www/html/opencats -R``
 
